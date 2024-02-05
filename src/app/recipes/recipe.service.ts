@@ -7,13 +7,13 @@ export class RecipeService {
   private recipes: Recipe[] = [
     new Recipe(
       'First recipe',
-      'This is a description',
+      'This is the first description',
       'https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_1280.jpg'
     ),
     new Recipe(
       'Second recipe',
-      'This is a description',
-      'https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_1280.jpg'
+      'This is the second description',
+      'https://cdn.pixabay.com/photo/2016/11/20/09/06/bowl-1842294_1280.jpg'
     ),
   ];
 
